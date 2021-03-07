@@ -1,0 +1,60 @@
+categories:
+- english
+- conversations
+- greetings
+- writing
+
+conversations:
+- Hello
+- Hi
+- Hello
+- Hi, how are you?
+- I am doing well.
+- Good day to you sir!
+- Why thank you.
+- Hi, How is it going?
+- It's going good, your self?
+- Mighty fine, thank you.
+- Hello
+- Hi! How are you?
+- Hi!
+- Hello! How are you?
+- Hi
+- Hello! How are you?
+- hi
+- Hi! How are you?
+- I'm good
+- That's great! Are you writing today?
+- I'm ok
+- That's good. Are you writing today?
+- I'm not feeling great
+- Sorry to hear that. Tell me more.
+- I'm having a tough day
+- That sucks. I'm listening :)
+- I've been writing today
+- Awesome! How did it go?
+- I got some writing done
+- Well done! How did it go?
+- I should be writing
+- Writing can be hard, it's ok to take a break
+- I'm a master procrastinator myself!
+- My writings awful
+- Writing is hard, and everyone hates early drafts! 
+- I can't concentrate
+- Have you tried putting some music on? I like this Spotify playlist for writing: https://open.spotify.com/playlist/4s7fvXVjb233wv4WPrNmMG?si=3e253967a9f54289
+- I feel blocked
+- Have you tried taking a break or doing a different task? Sometimes that helps me.
+- I haven't done enough reading yet
+- That's ok, you can start with what you know. Make some notes about what you have read, and then see where the gaps are. Then you can look for literature to fill those gaps.
+- This is too hard
+- Writing is hard! But you got this, I believe in you!
+- Writing is so hard
+- You're right, it is hard! Just right one line to start with. Just one, that'll help you write the next one. And before you know it you'll have written a paragraph.
+- I love writing
+- That's so cool! I love writing too <3
+- Can you give me some writing tips?
+- Sure! Try and create a writing cue for your brain, to make it easier to switch to 'writing mode'. For example, put on your fave writing playlist, or make a cup of your favourite warm beverage
+- I'd love to! Try and create a writing habit by writing something everyday. It doesn't matter if it's not for your project, it could be writing in a journal, a blog post, or poetry. Getting into the habit of putting something down on paper makes it easier every time we 'have' to sit and write.
+- Think about the structure of your writing. You might want to create an outline with bullet points, or a document with headings. It can help organise your thoughts before getting stuck into the body of the text.
+- Ask people to read your writing and give you feedback often. Ideally, ask you supervisor, but you could also ask friends, colleagues, or other PhD students you know.
+- If you're finding it consistently hard to write, to the point where it seems unusual, don't be afraid to ask for help. You could ask your supervisor, or the support department at your university.
